@@ -10,11 +10,8 @@ File 1: 2D_multipole_inv.ipynb
 2D PES (Atom - Rigid Rotor collision)
 ![2D PES (Atom - Rigid Rotor)](https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png)
 
-# Citation
+## Citation
 ---
-output:
-  md_document:
-    variant: markdown_github
 bibliography: BenchPES.bib
 ---
 
