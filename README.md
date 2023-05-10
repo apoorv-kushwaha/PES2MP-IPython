@@ -11,20 +11,14 @@ File 1: 2D_multipole_inv.ipynb
 ![2D PES (Atom - Rigid Rotor)](https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png)
 
 # Citation
+---
+output:
+  md_document:
+    variant: markdown_github
+bibliography: bibliography.bib
+---
 
-@article{Kushwaha2023Jan,
-	author = {Kushwaha, Apoorv and Kumar, Thogluva Janardhanan Dhilip},
-	title = {{Benchmarking PES-Learn's machine learning models predicting accurate potential energy surface for quantum scattering}},
-	journal = {Int. J. Quantum Chem.},
-	volume = {123},
-	number = {1},
-	pages = {e27007},
-	year = {2023},
-	month = jan,
-	issn = {0020-7608},
-	publisher = {John Wiley {\&} Sons, Ltd},
-	doi = {10.1002/qua.27007}
-}
+[@benchPES]
 
 File 2: Use 4D_SF_expansion.ipynb
 4D PES (Two Rigid Rotors)
