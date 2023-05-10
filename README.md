@@ -8,7 +8,7 @@ For any quaries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc:
 
 ### File 1: 2D_multipole_inv.ipynb<br />
 <br />
-_Uses scipy.special for legendre coefficient_<br />
+_Uses scipy.special for legendre coefficient_
 <br />
 2D PES (Atom - Rigid Rotor collision)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="250">
@@ -33,7 +33,7 @@ _Uses scipy.special for legendre coefficient_<br />
 
 ### File 2: Use 4D_SF_expansion.ipynb<br />
 <br />
-_Uses pyshtools for calculating spherical harmonics_ <br />
+_Uses pyshtools for calculating spherical harmonics_
 **(need separate installation: Instructions are provided in jupyter-notebook file)<br />**
 <br />
 4D PES (Two Rigid Rotors)<br />
