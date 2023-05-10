@@ -6,13 +6,12 @@ Both codes use least square fit (achieved by taking pseudo-inverse of Legendre/S
 
 For any quaries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc: (mailto:kushwaha.apoorv@gmail.com)<br />
 
-### File 1: 2D_multipole_inv.ipynb<br />
+### File 1: 2D_multipole_inv.ipynb
 _Uses scipy.special for legendre coefficient_
 
-<br />
 2D PES (Atom - Rigid Rotor collision)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="250">
-<br />
+
 
 ```diff 
 # Citation: multipole expansion of 2D Potential Energy Surface
@@ -31,14 +30,14 @@ _Uses scipy.special for legendre coefficient_
 }
 ```
 
-### File 2: Use 4D_SF_expansion.ipynb<br />
-<br />
+### File 2: Use 4D_SF_expansion.ipynb
+
 _Uses pyshtools for calculating spherical harmonics_
 **(need separate installation: Instructions are provided in jupyter-notebook file)<br />**
-<br />
+
 4D PES (Two Rigid Rotors)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jac_final.png" width="500">
-<br />
+
 
 ```diff 
 ! bibliography: Upcoming.bib
