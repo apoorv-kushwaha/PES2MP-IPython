@@ -7,8 +7,8 @@ Both codes use least square fit (achieved by taking pseudo-inverse of Legendre/S
 For any quaries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc: (mailto:kushwaha.apoorv@gmail.com)<br />
 
 ### File 1: 2D_multipole_inv.ipynb<br />
-<br />
 _Uses scipy.special for legendre coefficient_
+
 <br />
 2D PES (Atom - Rigid Rotor collision)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="250">
