@@ -13,8 +13,7 @@ _Uses scipy.special for legendre coefficient<br />_
 <br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="250">
 
-## Citation file
-bibliography: BenchPES.bib<br />
+##bibliography: BenchPES.bib<br />
 
 File 2: Use 4D_SF_expansion.ipynb<br />
 <br />
@@ -24,5 +23,4 @@ _Uses pyshtools for calculating spherical harmonics <br />_
 4D PES (Two Rigid Rotors)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jac_final.png" width="500">
 
-## Citation file
-bibliography: Upcoming.bib<br />
+##bibliography: Upcoming.bib<br />
