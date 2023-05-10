@@ -15,7 +15,20 @@ _Uses scipy.special for legendre coefficient<br />_
 <br />
 
 ```diff 
-! bibliography: BenchPES.bib 
+- bibliography: BenchPES.bib 
++ @article{Kushwaha2023Jan,
+	author = {Kushwaha, Apoorv and Kumar, Thogluva Janardhanan Dhilip},
+	title = {{Benchmarking PES-Learn's machine learning models predicting accurate potential energy surface for quantum scattering}},
+	journal = {Int. J. Quantum Chem.},
+	volume = {123},
+	number = {1},
+	pages = {e27007},
+	year = {2023},
+	month = jan,
+	issn = {0020-7608},
+	publisher = {John Wiley {\&} Sons, Ltd},
+	doi = {10.1002/qua.27007}
+}
 ```
 
 File 2: Use 4D_SF_expansion.ipynb<br />
