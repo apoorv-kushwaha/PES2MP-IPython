@@ -15,6 +15,7 @@ _Uses scipy.special for legendre coefficient<br />_
 <br />
 
 ```diff 
+# Citation: multipole expansion of 2D Potential Energy Surface
 @article{Kushwaha2023Jan,
 	author = {Kushwaha, Apoorv and Kumar, Thogluva Janardhanan Dhilip},
 	title = {{Benchmarking PES-Learn's machine learning models predicting accurate potential energy surface for quantum scattering}},
