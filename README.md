@@ -12,8 +12,8 @@ _Uses scipy.special for legendre coefficient<br />_
 <br />
 2D PES (Atom - Rigid Rotor collision)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="250">
-
-bibliography: BenchPES.bib<br />
+<br />
+```diff ! bibliography: BenchPES.bib<br /> ```
 
 File 2: Use 4D_SF_expansion.ipynb<br />
 <br />
@@ -22,12 +22,5 @@ _Uses pyshtools for calculating spherical harmonics <br />_
 <br />
 4D PES (Two Rigid Rotors)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jac_final.png" width="500">
-
-bibliography: Upcoming.bib<br />
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+<br />
+```diff bibliography: Upcoming.bib<br /> ```
