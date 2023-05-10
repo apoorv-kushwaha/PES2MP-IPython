@@ -4,14 +4,14 @@ for fitting PES into radial coefficients is provided as jupyter-notebook files. 
 
 Both codes use least square fit (achieved by taking pseudo-inverse of Legendre/Spherical-Harmonics coefficients stored in a 2D matrix).<br />
 
-For any quaries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) CC: AK(mailto:kushwaha.apoorv@gmail.com)<br />
+For any quaries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc: (mailto:kushwaha.apoorv@gmail.com)<br />
 
 File 1: 2D_multipole_inv.ipynb<br />
 <br />
 _Uses scipy.special for legendre coefficient<br />_
 2D PES (Atom - Rigid Rotor collision)<br />
 <br />
-![2D PES (Atom - Rigid Rotor)](https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png=250x250)
+<img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="100" height="100">
 
 ## Citation file
 bibliography: BenchPES.bib<br />
