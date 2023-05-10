@@ -11,7 +11,7 @@ File 1: 2D_multipole_inv.ipynb<br />
 _Uses scipy.special for legendre coefficient<br />_
 2D PES (Atom - Rigid Rotor collision)<br />
 <br />
-<img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="100" height="100">
+<img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="200">
 
 ## Citation file
 bibliography: BenchPES.bib<br />
