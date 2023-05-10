@@ -6,7 +6,7 @@ Both codes use least square fit (achieved by taking pseudo-inverse of Legendre/S
 
 For any quaries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc: (mailto:kushwaha.apoorv@gmail.com)<br />
 
-# File 1: 2D_multipole_inv.ipynb<br />
+#### File 1: 2D_multipole_inv.ipynb<br />
 <br />
 _Uses scipy.special for legendre coefficient<br />_
 <br />
@@ -31,7 +31,7 @@ _Uses scipy.special for legendre coefficient<br />_
 }
 ```
 
-# File 2: Use 4D_SF_expansion.ipynb<br />
+#### File 2: Use 4D_SF_expansion.ipynb<br />
 <br />
 _Uses pyshtools for calculating spherical harmonics <br />_
 **(need separate installation: Instructions are provided in jupyter-notebook file)<br />**
