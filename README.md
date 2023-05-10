@@ -15,10 +15,10 @@ File 1: 2D_multipole_inv.ipynb
 output:
   md_document:
     variant: markdown_github
-bibliography: bibliography.bib
+bibliography: BenchPES.bib
 ---
 
-[@benchPES]
+[@Kushwaha2023Jan]
 
 File 2: Use 4D_SF_expansion.ipynb
 4D PES (Two Rigid Rotors)
