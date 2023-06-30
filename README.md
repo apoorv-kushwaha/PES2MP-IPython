@@ -4,7 +4,7 @@
 for fitting PES into radial coefficients is provided as jupyter-notebook files. <br />
 
 Both codes use least square fit (achieved by taking the pseudo-inverse of Legendre/Spherical-Harmonics coefficients stored in a 2D matrix).<br />
-Currently limited to rigid rotor - atom (2D) and rigid rotor - rigid rotor collision
+Currently limited to rigid rotor - atom (2D) and rigid rotor - rigid rotor (4D) collision
 
 For any queries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc: (mailto:kushwaha.apoorv@gmail.com)<br />
 
