@@ -1,13 +1,15 @@
-# Multipole expansion
+# PES2MP (Potential Energy Surface Mapping to Multipole Expansion Series)
+## Multipole expansion
 2D and 4D multipole expansion code (using Legendre polynomials and Spherical Harmonics respectively) 
 for fitting PES into radial coefficients is provided as jupyter-notebook files. <br />
 
-Both codes use least square fit (achieved by taking pseudo-inverse of Legendre/Spherical-Harmonics coefficients stored in a 2D matrix).<br />
+Both codes use least square fit (achieved by taking the pseudo-inverse of Legendre/Spherical-Harmonics coefficients stored in a 2D matrix).<br />
+Currently limited to rigid rotor - atom (2D) and rigid rotor - rigid rotor collision
 
-For any quaries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc: (mailto:kushwaha.apoorv@gmail.com)<br />
+For any queries contact [Dr. T. J. Dhilip Kumar](mailto:dhilip@iitrpr.ac.in) cc: (mailto:kushwaha.apoorv@gmail.com)<br />
 
 ### File 1: 2D_multipole_inv.ipynb
-_Uses scipy.special for legendre coefficient_
+_Uses scipy.special for Legendre coefficient_
 
 2D PES (Atom - Rigid Rotor collision)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="250">
