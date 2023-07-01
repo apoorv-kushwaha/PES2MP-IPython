@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/637674609.svg)](https://zenodo.org/badge/latestdoi/637674609)  
+[![DOI](https://zenodo.org/badge/637674609.svg)](https://doi.org/10.5281/zenodo.8103787)  
 Contact: dhilip@iitrpr.ac.in
 
 ```diff
