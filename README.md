@@ -1,5 +1,19 @@
 [![DOI](https://zenodo.org/badge/637674609.svg)](https://zenodo.org/badge/latestdoi/637674609)
 
+```diff
+# Cite software
+@software{apoorv_kushwaha_2023_8103787,
+  author       = {Apoorv Kushwaha},
+  title        = {apoorv-kushwaha/PES2MP: Initial Release},
+  month        = jul,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.8103787},
+  url          = {https://doi.org/10.5281/zenodo.8103787}
+}
+```
+
 # PES2MP (Potential Energy Surface Mapping to Multipole Expansion Series)
 ## Multipole expansion
 2D and 4D multipole expansion code (using Legendre polynomials and Spherical Harmonics respectively) 
@@ -18,7 +32,7 @@ _Uses scipy.special for Legendre coefficient_
 
 
 ```diff 
-# Citation: multipole expansion of 2D Potential Energy Surface
+# Citation Paper for 2D code: multipole expansion of 2D Potential Energy Surface
 @article{Kushwaha2023Jan,
 	author = {Kushwaha, Apoorv and Kumar, Thogluva Janardhanan Dhilip},
 	title = {{Benchmarking PES-Learn's machine learning models predicting accurate potential energy surface for quantum scattering}},
@@ -43,6 +57,8 @@ _Uses pyshtools for calculating spherical harmonics_
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jac_final.png" width="500">
 
 
-```diff 
+```diff
+# Citation Paper for 4D code: multipole expansion of 4D Potential Energy Surface
+
 ! bibliography: Upcoming.bib
 ```
