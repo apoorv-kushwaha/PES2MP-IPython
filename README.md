@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/637674609.svg)](https://zenodo.org/badge/latestdoi/637674609)
+
 # PES2MP (Potential Energy Surface Mapping to Multipole Expansion Series)
 ## Multipole expansion
 2D and 4D multipole expansion code (using Legendre polynomials and Spherical Harmonics respectively) 
