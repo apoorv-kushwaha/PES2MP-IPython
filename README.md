@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/637674609.svg)](https://zenodo.org/badge/latestdoi/637674609)
 
 ```diff
-# Cite software
+# Software citation
 @software{apoorv_kushwaha_2023_8103787,
   author       = {Apoorv Kushwaha},
   title        = {apoorv-kushwaha/PES2MP: Initial Release},
@@ -32,7 +32,7 @@ _Uses scipy.special for Legendre coefficient_
 
 
 ```diff 
-# Citation Paper for 2D code: multipole expansion of 2D Potential Energy Surface
+# Article citation for 2D code: multipole expansion of 2D Potential Energy Surface
 @article{Kushwaha2023Jan,
 	author = {Kushwaha, Apoorv and Kumar, Thogluva Janardhanan Dhilip},
 	title = {{Benchmarking PES-Learn's machine learning models predicting accurate potential energy surface for quantum scattering}},
@@ -58,7 +58,7 @@ _Uses pyshtools for calculating spherical harmonics_
 
 
 ```diff
-# Citation Paper for 4D code: multipole expansion of 4D Potential Energy Surface
+# Article citation for 4D code: multipole expansion of 4D Potential Energy Surface
 
 ! bibliography: Upcoming.bib
 ```
