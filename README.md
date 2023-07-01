@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/637674609.svg)](https://zenodo.org/badge/latestdoi/637674609) $~~~~~~~~~~~$ Contact: dhilip@iitrpr.ac.in
+[![DOI](https://zenodo.org/badge/637674609.svg)](https://zenodo.org/badge/latestdoi/637674609)  
+Contact: dhilip@iitrpr.ac.in
 
 ```diff
 # Software citation
