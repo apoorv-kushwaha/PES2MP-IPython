@@ -4,7 +4,7 @@ Contact: dhilip@iitrpr.ac.in
 ```diff
 # Software citation
 @software{apoorv_kushwaha_2023_8103787,
-  author       = {Apoorv Kushwaha},
+  author       = {Apoorv Kushwaha, T. J. Dhilip Kumar},
   title        = {apoorv-kushwaha/PES2MP: Initial Release},
   month        = jul,
   year         = 2023,
