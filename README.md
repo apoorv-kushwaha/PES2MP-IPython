@@ -31,9 +31,10 @@ _Uses scipy.special for Legendre coefficient_
 2D PES (Atom - Rigid Rotor collision)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jacobi22.png" width="250">
 
+Link: [[Link to paper: See Supplementary Information]](https://doi.org/10.1002/qua.27007) 
 
 ```diff 
-# Article citation for 2D code: multipole expansion of 2D Potential Energy Surface
+# Bibtex citation for 2D code: multipole expansion of 2D Potential Energy Surface
 @article{Kushwaha2023Jan,
 	author = {Kushwaha, Apoorv and Kumar, Thogluva Janardhanan Dhilip},
 	title = {{Benchmarking PES-Learn's machine learning models predicting accurate potential energy surface for quantum scattering}},
@@ -57,6 +58,7 @@ _Uses pyshtools for calculating spherical harmonics_
 4D PES (Two Rigid Rotors)<br />
 <img src="https://github.com/apoorv-kushwaha/Multipole/blob/main/jac_final.png" width="500">
 
+Link: [Upcoming Link]() 
 
 ```diff
 # Article citation for 4D code: multipole expansion of 4D Potential Energy Surface
