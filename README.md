@@ -1,17 +1,20 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8103787.svg)](https://doi.org/10.5281/zenodo.8103787) <br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8232313.svg)](https://doi.org/10.5281/zenodo.8232313) <br>
+
 Contact: dhilip@iitrpr.ac.in
 
 ```diff
 # Software citation
-@software{apoorv_kushwaha_2023_8103787,
-  author       = {Apoorv Kushwaha, T. J. Dhilip Kumar},
-  title        = {apoorv-kushwaha/PES2MP: Initial Release},
-  month        = jul,
+@software{kushwaha_apoorv_2023_8232313,
+  author       = {Kushwaha, Apoorv and
+                  Dhilip Kumar, T. J.},
+  title        = {QuantumDynamicsLab/PES2MP},
+  month        = aug,
   year         = 2023,
+  note         = {If you use this software, please cite it as below.},
   publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.8103787},
-  url          = {https://doi.org/10.5281/zenodo.8103787}
+  version      = {v1.0.3},
+  doi          = {10.5281/zenodo.8232313},
+  url          = {https://doi.org/10.5281/zenodo.8232313}
 }
 ```
 
