@@ -1,3 +1,5 @@
+# UPDATED VERSION MAY BE OBTAINED AT : https://github.com/QuantumDynamicsLab/PES2MP/tree/main
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8232313.svg)](https://doi.org/10.5281/zenodo.8232313) <br>
 
 Contact: dhilip@iitrpr.ac.in
