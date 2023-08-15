@@ -1,4 +1,5 @@
-# UPDATED VERSION MAY BE OBTAINED AT : https://github.com/QuantumDynamicsLab/PES2MP/
+# This reporesotary has been moved!
+## UPDATED VERSION MAY BE OBTAINED AT : https://github.com/QuantumDynamicsLab/PES2MP/
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8232313.svg)](https://doi.org/10.5281/zenodo.8232313) <br>
 
