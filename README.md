@@ -5,22 +5,6 @@
 
 Contact: dhilip@iitrpr.ac.in
 
-```diff
-# Software citation
-@software{kushwaha_apoorv_2023_8232313,
-  author       = {Kushwaha, Apoorv and
-                  Dhilip Kumar, T. J.},
-  title        = {QuantumDynamicsLab/PES2MP},
-  month        = aug,
-  year         = 2023,
-  note         = {If you use this software, please cite it as below.},
-  publisher    = {Zenodo},
-  version      = {v1.0.3},
-  doi          = {10.5281/zenodo.8232313},
-  url          = {https://doi.org/10.5281/zenodo.8232313}
-}
-```
-
 # PES2MP (Potential Energy Surface Mapping to Multipole Expansion Series)
 ## Multipole expansion
 2D and 4D multipole expansion code (using Legendre polynomials and Spherical Harmonics respectively) 
