@@ -54,7 +54,7 @@ Link: [[Link to paper: See Supplementary Information]](https://doi.org/10.1063/5
 # Article citation for 4D code: multipole expansion of 4D Potential Energy Surface
 @article{Kushwaha2023Aug,
 	author = {Kushwaha, Apoorv and Dhilip Kumar, T. J.},
-	title = {{4D potential energy surface of NCCN{\textendash}H2 collision: Rotational dynamics by {\textit{p}}-H2 and {\textit{o}}-H2 at interstellar temperatures}},
+	title = {{4D potential energy surface of NCCN{\textendash}H2 collision: Rotational dynamics by p-H2 and o-H2 at interstellar temperatures}},
 	journal = {J. Chem. Phys.},
 	volume = {159},
 	number = {7},
