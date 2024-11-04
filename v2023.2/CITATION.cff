@@ -1,0 +1,11 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Kushwaha
+    given-names: Apoorv
+    orcid: https://orcid.org/0000-0002-8288-4086
+  - family-names: Dhilip Kumar
+    given-names: T. J. 
+    orcid: https://orcid.org/0000-0002-1208-4112
+title: QuantumDynamicsLab/PES2MP
+version: v1.0.3
