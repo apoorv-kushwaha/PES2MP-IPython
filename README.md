@@ -1,7 +1,7 @@
 # $${\color{red} This \space repository \space has \space been \space moved!}$$
 ## AUTOMATED PYTHONIC VERSION CAN BE OBTAINED FROM : [https://github.com/QuantumDynamicsLab/PES2MP/](https://github.com/QuantumDynamicsLab/PES2MP)
 
-## UPDATED VERSION IN JUPYTER NOTEBOOK FORMAT (FOR DEBUGGING) MAY BE OBTAINED FROM : [https://github.com/QuantumDynamicsLab/PES2MP/](https://github.com/QuantumDynamicsLab/PES2MP_ipynb)
+## UPDATED VERSION IN JUPYTER NOTEBOOK FORMAT (FOR DEBUGGING) MAY BE OBTAINED FROM : [https://github.com/QuantumDynamicsLab/PES2MP_ipynb/](https://github.com/QuantumDynamicsLab/PES2MP_ipynb)
 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8232313.svg)](https://doi.org/10.5281/zenodo.8232313) <br>
